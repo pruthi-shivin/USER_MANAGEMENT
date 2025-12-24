@@ -24,11 +24,11 @@ A simple user management API built with FastAPI
 
 ## How to Run
 
-<ins>STEP-1: Clone the Repository</ins>
-git clone 
+<ins>STEP-1: Clone the Repository</ins></br>
+git clone </br>
 cd user-management-service
 
-<ins>STEP-2: Setup the Virtual Environment</ins>
+<ins>STEP-2: Setup the Virtual Environment</ins></br>
 <ins> Virtual Environment(WINDOWS):	</ins>
 
 python -m venv venv                         
@@ -39,8 +39,8 @@ venv\Scripts\activate
 python3 -m venv venv</br> 
 source venv/bin/activate
 
-<ins>STEP-3: Install the requirements</ins>
+<ins>STEP-3: Install the requirements</ins></br>
 pip install -r requirements.txt
 
-<ins>STEP-4: Run the app</ins>
+<ins>STEP-4: Run the app</ins></br>
 uvicorn app.main:app

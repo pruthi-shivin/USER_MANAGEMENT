@@ -25,7 +25,7 @@ A simple user management API built with FastAPI
 ## How to Run
 
 <ins>STEP-1: Clone the Repository</ins><br>
-git clone <br>
+git clone https://github.com/pruthi-shivin/USER_MANAGEMENT <br>
 cd user-management-service
 
 <ins>STEP-2: Setup the Virtual Environment</ins><br>

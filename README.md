@@ -28,10 +28,12 @@ git clone
 cd user-management-service
 
 <u>Virtual Environment(WINDOWS):</u>
+
 python -m venv venv                         
 venv\Scripts\activate
 
 <u>Virtual Environment(MAC):</u>
+
 python3 -m venv venv
 source venv/bin/activate
 

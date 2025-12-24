@@ -36,7 +36,7 @@ venv\Scripts\activate
 
 <ins> Virtual Environment(MAC):	</ins>
 
-python3 -m venv venv</br> 
+python3 -m venv venv<br> 
 source venv/bin/activate
 
 <ins>STEP-3: Install the requirements</ins><br>

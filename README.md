@@ -27,15 +27,14 @@ A simple user management API built with FastAPI
 git clone 
 cd user-management-service
 
-	<ins> Virtual Environment(WINDOWS):	</ins>
+<ins> Virtual Environment(WINDOWS):	</ins>
 
 python -m venv venv                         
 venv\Scripts\activate
 
-	<ins>Virtual Environment(MAC):	</ins>
+<ins> Virtual Environment(MAC):	</ins>
 
 python3 -m venv venv
-
 source venv/bin/activate
 
 pip install -r requirements.txt
